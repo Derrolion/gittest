@@ -1,3 +1,32 @@
+what is git
+
+Commands
+
+git config --global user.name "myname"
+git config --global user.email "email@gmail"
+
+initialize git repo
+git init
+
+
+add file to git
 git add .
 
-git commit -m "message"
+commit to git
+git commit -m "meesage"
+
+show info
+git status
+git log
+
+Github
+git remote add origin https://github.com/repo-name
+
+upload to github
+git push -u origin main
+
+download from github
+git pull origin main
+
+
+Branches
